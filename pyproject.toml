@@ -39,7 +39,6 @@ isort = "*"
 mypy = "*"
 sphinx = "*"
 pytest-asyncio = "*"
-codecov = "*"
 pre-commit = "*"
 
 [tool.pytest.ini_options]
